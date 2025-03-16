@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内访问指南（支持 GPT-4、4o和o1、o3、deepseek、grok3，无需翻墙）【2025年3月更新】
 
-> 更新时间：2025年03月14日
+> 更新时间：2025年03月17日
 
 全面讲解 ChatGPT 中文版使用指南，支持 GPT-4，无需翻墙即可轻松使用 ChatGPT~
 
@@ -29,7 +29,7 @@ ChatGPT 中文版是基于 OpenAI 的先进 ChatGPT 模型的本地化版本，�
 
 以下是一些推荐的 ChatGPT 中文版镜像网站，您可以在无需翻墙的情况下顺畅使用 ChatGPT：
 
-- [https://songshugpt.com](https://songshugpt.com)：ChatGPT中文版，运行稳定近两年，支持 GPT-4、4o 和 o1 模型，并具备 AI 绘画功能。
+- [https://songshugpt.com](https://songshugpt.com)：ChatGPT中文版，运行稳定近两年，支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3模型，并具备 AI 绘画功能。
 - [https://gptdog.online/](https://gptdog.online/)：ChatGPT镜像网站，集成了最新 ChatGPT 模型，包括 GPT-4o、4o mini 和 o1，支持 AI 写作、编程助手、知识库及思维导图等功能。
 - [gptcat.net](gptcat.net)：提供多种 AI 工具，帮助用户掌握前沿技术知识。
 - [ai-panda.xyz](ai-panda.xyz)：支持 AI 绘画功能，适合创意人士。
